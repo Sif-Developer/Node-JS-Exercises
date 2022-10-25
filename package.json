@@ -1,0 +1,20 @@
+{
+  "name": "ejercicios-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sif03/Node-JS-Exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sif03/Node-JS-Exercises/issues"
+  },
+  "homepage": "https://github.com/Sif03/Node-JS-Exercises#readme"
+}
